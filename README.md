@@ -1,2 +1,2 @@
 # TestingMain
-for Miit
+Генератор случайных чисел
